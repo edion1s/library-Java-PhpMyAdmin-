@@ -6,4 +6,4 @@ The project is meant to be an app for my University Library.
 The first page asks for admin to add his username and password in order to access other pages.
 The username and password are manually created in mysql.
 After a successfully log in the next page shown is the landing page where there are 4 buttons given to access either books,employees,students and ladnded books from school library.
-The admin can access all 
+The admin can access all the data and can add new ones,delete old data and edit data at java application.
